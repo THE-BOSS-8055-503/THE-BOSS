@@ -1,9 +1,5 @@
-<p align="left">
-  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
- </p>
-<p align="center">
-  <img src="logo.png">  
-</p>
+![logo](https://user-images.githubusercontent.com/67017503/84822043-1f197380-b02d-11ea-9ff6-08286fb1fab0.jpg)
+
 
 <p align="center">
       Modern Phishing Tool With Advanced Functionality 
