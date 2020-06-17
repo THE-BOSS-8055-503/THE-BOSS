@@ -1,3 +1,4 @@
+
 ![logo](https://user-images.githubusercontent.com/67017503/84822043-1f197380-b02d-11ea-9ff6-08286fb1fab0.jpg)
 
 
@@ -8,13 +9,13 @@
      PHISHING | KEYLOGGER | INFORMATION_COLLECTOR | ALL_IN_ONE_TOOL | SOCIALENGINEERING  
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/darksecdevelopers"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" ></a>
   <a href="https://github.com/DarkSecDevelopers/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>  
   <a href="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye"><img src="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye/badge" alt="CodeFactor" /></a>
   <a href="https://www.codacy.com/manual/DarkSecDevelopers/HiddenEye?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DarkSecDevelopers/HiddenEye&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/af9fadca3cfc4de19232d0840988e121"/></a>
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye.svg?type=shield"/></a>
-</p>
+</p>-->
 
 ## DISCLAIMER
 
@@ -22,22 +23,15 @@
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The use of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Also we inform you that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this software to test person or company without **WRITTEN PERMISSION** from them.
+The use of the THE-BOSS & its resources/phishing-pages is **COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Also we inform you that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this software to test person or company without **WRITTEN PERMISSION** from them.
 
 
 
 
 # DEVELOPERS & CONTRIBUTORS
 
-1) ANONUD4Y (https://github.com/An0nUD4Y)
-2) USAMA ABDUL SATTAR (https://github.com/usama7628674)
-3) sTiKyt (https://github.com/sTiKyt)
-4) UNDEADSEC (https://github.com/UndeadSec)
-5) Micrafast (https://github.com/Micrafast)
-6) Moltivie (https://github.com/Moltivie)
-7) endbehavi0r (https://github.com/endbehavi0r)
-8) DarkMidus (https://github.com/DarkMidus)
-8) ___________ (WAITING FOR YOU)
+1) THE_BOSS (8055-503){MUHAMMED_ASHLIN_JAMAL}
+
 
 # AVAILABLE TUNNELLING OPTIONS**
 0) LOCALHOST 
@@ -49,16 +43,7 @@ The use of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBI
 6) PAGEKITE (https://pagekite.net/)
 
 # SCREENSHOT (Android-Userland)
-![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
-
-
-## CREDIT:-
-* Anonud4y ( I don't remember if i have done Anything )
-* Usama ( A Most active Developer)
-* sTiKyt ( Guy Who recustomized everything )
-* UNDEADSEC (For their wonderful repo socialfish which motivated us a lot)
-* TheLinuxChoice ( For His Tools Phishing Pages ) 
-* Thewhiteh4t (For Nearyou & Gdrive Location Templates)
+![Screenshot](https://user-images.githubusercontent.com/67017503/84841593-d45f2200-b053-11ea-8da3-7dc1ba9a601a.png)
 
 ### TESTED ON FOLLOWING:-
 * **Kali Linux - Rolling Edition**
@@ -140,15 +125,12 @@ git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEy
 
 **11) TOOLS ADDED**
 
-**A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Thanks To https://github.com/thewhiteh4t/seeker)**
-  - NEAR YOU (By @thewhiteh4t )
-  - GDRIVE (By @thewhiteh4t)
+**A) LOCATION (Accurately Locate Smartphones using Social Engineering) 
+  - NEAR YOU
+  - GDRIVE 
 ## [Check This](https://youtu.be/InSdtLhZzk4) Demonstration video to know How (Location) Social-Engineering-Tool Works.
- 
-## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
+</p> 
 
-## BACKUP REPOSITORY AVAILABLE AT GITLAB - [(CHECK HERE)](https://gitlab.com/an0nud4y/HiddenEye)
-</p>
 
 <h3>Ascii error fix</h3>
 
